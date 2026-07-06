@@ -140,9 +140,9 @@ visitor@github:~$ cat ./trophies.log
 2. 🚀 Pushed to [riddhixraina/riddhixraina](https://github.com/riddhixraina/riddhixraina) `main`
 3. 🚀 Pushed to [riddhixraina/riddhixraina](https://github.com/riddhixraina/riddhixraina) `main`
 4. 🚀 Pushed to [riddhixraina/riddhixraina](https://github.com/riddhixraina/riddhixraina) `main`
-5. 🌱 Created branch `main` in [riddhixraina/riddhixraina](https://github.com/riddhixraina/riddhixraina)
-6. 🚀 Pushed to [riddhixraina/riddhixraina.github.io](https://github.com/riddhixraina/riddhixraina.github.io) `main`
-7. 🚀 Pushed to [pulseNYC-Skywalkers/backend](https://github.com/pulseNYC-Skywalkers/backend) `main`
+5. 🚀 Pushed to [riddhixraina/riddhixraina](https://github.com/riddhixraina/riddhixraina) `main`
+6. 🌱 Created branch `main` in [riddhixraina/riddhixraina](https://github.com/riddhixraina/riddhixraina)
+7. 🚀 Pushed to [riddhixraina/riddhixraina.github.io](https://github.com/riddhixraina/riddhixraina.github.io) `main`
 <!--END_SECTION:activity-->
 
 ---
