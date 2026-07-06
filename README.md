@@ -16,6 +16,7 @@ visitor@github:~$ cat ./about_me.txt
   Prev      : SDE2 @ Optum (UnitedHealth Group) · 3+ years
   Focus     : AI/ML · Multi-Agent Systems · Full-Stack · Distributed Systems
   Wins      : ██████████████ 6× Hackathon Winner 🏆
+  Orgs      : Member of 9 GitHub organizations
   Shipping  : Ally (live) · DocuFlow · EchoGuard · PersonaSphere
   Portfolio : https://riddhixraina.github.io/
   Collab    : OPEN — reach out anytime ✅
@@ -89,8 +90,8 @@ visitor@github:~$ cat ./about_me.txt
 
 <div align="center">
 
-<img src="https://github-readme-stats-liard.vercel.app/api?username=riddhixraina&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats-liard.vercel.app/api/top-langs/?username=riddhixraina&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+<img src="https://github-readme-stats.shion.dev/api?username=riddhixraina&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=riddhixraina&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com?user=riddhixraina&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
@@ -100,7 +101,7 @@ visitor@github:~$ cat ./about_me.txt
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
-![Metrics](https://metrics.lecoq.io/riddhixraina?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.hireable=true&config.timezone=America%2FNew_York)
+![Metrics](./github-metrics.svg)
 
 ---
 
