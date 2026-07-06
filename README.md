@@ -142,8 +142,8 @@ visitor@github:~$ cat ./trophies.log
 3. 🚀 Pushed to [riddhixraina/riddhixraina](https://github.com/riddhixraina/riddhixraina) `main`
 4. 🚀 Pushed to [riddhixraina/riddhixraina](https://github.com/riddhixraina/riddhixraina) `main`
 5. 🚀 Pushed to [riddhixraina/riddhixraina](https://github.com/riddhixraina/riddhixraina) `main`
-6. 🌱 Created branch `main` in [riddhixraina/riddhixraina](https://github.com/riddhixraina/riddhixraina)
-7. 🚀 Pushed to [riddhixraina/riddhixraina.github.io](https://github.com/riddhixraina/riddhixraina.github.io) `main`
+6. 🚀 Pushed to [riddhixraina/riddhixraina](https://github.com/riddhixraina/riddhixraina) `main`
+7. 🌱 Created branch `main` in [riddhixraina/riddhixraina](https://github.com/riddhixraina/riddhixraina)
 <!--END_SECTION:activity-->
 
 ---
