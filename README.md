@@ -16,7 +16,7 @@ visitor@github:~$ cat ./about_me.txt
   Prev      : SDE2 @ Optum (UnitedHealth Group) · 3+ years
   Focus     : AI/ML · Multi-Agent Systems · Full-Stack · Distributed Systems
   Wins      : ██████████████ 6× Hackathon Winner 🏆
-  Shipping  : Backsie (live) · DocuFlow · EchoGuard · PersonaSphere
+  Shipping  : Ally (live) · DocuFlow · EchoGuard · PersonaSphere
   Portfolio : https://riddhixraina.github.io/
   Collab    : OPEN — reach out anytime ✅
 ```
@@ -28,7 +28,7 @@ visitor@github:~$ cat ./about_me.txt
 - 🎓 𝙼𝚂 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚝 𝙽𝚈𝚄, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸𝟶𝟸𝟽 · 𝙱𝚃𝚎𝚌𝚑 𝚏𝚛𝚘𝚖 𝚅𝙸𝚃
 - 🧑‍🏫 𝙰𝚍𝚓𝚞𝚗𝚌𝚝 𝙸𝚗𝚜𝚝𝚛𝚞𝚌𝚝𝚘𝚛 𝚊𝚝 𝙽𝚈𝚄 𝙺𝟷𝟸 𝚂𝚃𝙴𝙼 — 𝚝𝚎𝚊𝚌𝚑𝚒𝚗𝚐 𝙸𝚗𝚗𝚘𝚟𝚊𝚝𝚒𝚘𝚗, 𝙴𝚗𝚝𝚛𝚎𝚙𝚛𝚎𝚗𝚎𝚞𝚛𝚜𝚑𝚒𝚙 & 𝚂𝚌𝚒𝚎𝚗𝚌𝚎
 - 🏆 𝟼𝚡 𝚑𝚊𝚌𝚔𝚊𝚝𝚑𝚘𝚗 𝚠𝚒𝚗𝚗𝚎𝚛 — 𝙿𝚞𝚕𝚜𝚎 𝙵𝚘𝚞𝚗𝚍𝚛𝚢 𝙰𝙸 × 𝙰𝙱𝙸 (𝟷𝚜𝚝), 𝙰𝚆𝚂 𝙵𝚒𝚗𝙰𝙸 (𝟸𝚗𝚍/𝟻𝟶𝟶+), 𝙲𝚛𝚘𝚜𝚜-𝙲𝚊𝚖𝚙𝚞𝚜 𝙱𝚊𝚜𝚎𝟺𝟺 (𝟷𝚜𝚝), 𝙽𝚈𝚄 𝚂𝚝𝚊𝚛𝚝𝚞𝚙 𝚆𝚎𝚎𝚔𝚎𝚗𝚍, 𝙲𝚘𝚕𝚞𝚖𝚋𝚒𝚊 𝙰𝙸 𝚏𝚘𝚛 𝙶𝚘𝚘𝚍, 𝙽𝙰𝚂𝙰 𝚂𝚙𝚊𝚌𝚎 𝙰𝚙𝚙𝚜
-- 🚀 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚜𝚑𝚒𝚙𝚙𝚒𝚗𝚐 [**𝙱𝚊𝚌𝚔𝚜𝚒𝚎**](https://backsie.co/) — 𝚖𝚞𝚕𝚝𝚒-𝚊𝚐𝚎𝚗𝚝 𝙲𝙱𝚃 𝚙𝚕𝚊𝚝𝚏𝚘𝚛𝚖 𝚕𝚒𝚟𝚎 𝚘𝚗 𝚠𝚎𝚋 & 𝚒𝙾𝚂 𝚠𝚒𝚝𝚑 𝟸𝟷+ 𝚊𝚌𝚝𝚒𝚟𝚎 𝚞𝚜𝚎𝚛𝚜
+- 🚀 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚜𝚑𝚒𝚙𝚙𝚒𝚗𝚐 [**𝙰𝚕𝚕𝚢**](https://ally-campus-care.base44.app/) — 𝙰𝙸 𝚌𝚊𝚖𝚙𝚞𝚜 𝚌𝚘𝚖𝚙𝚊𝚗𝚒𝚘𝚗 𝚏𝚘𝚛 𝚍𝚒𝚏𝚏𝚎𝚛𝚎𝚗𝚝𝚕𝚢-𝚊𝚋𝚕𝚎𝚍 𝚜𝚝𝚞𝚍𝚎𝚗𝚝𝚜 · 𝙱𝚊𝚜𝚎𝟺𝟺 · 𝚃𝚠𝚒𝚕𝚒𝚘 · 𝙶𝚘𝚘𝚐𝚕𝚎 𝙰𝙿𝙸𝚜
 - 🌐 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚘𝚗 [𝙶𝚒𝚝𝙷𝚞𝚋](https://github.com/riddhixraina) & [𝚛𝚒𝚍𝚍𝚑𝚒𝚡𝚛𝚊𝚒𝚗𝚊.𝚐𝚒𝚝𝚑𝚞𝚋.𝚒𝚘](https://riddhixraina.github.io/)
 - ⚡ 𝚋𝚝𝚠 𝙸 𝚍𝚎𝚙𝚕𝚘𝚢 𝚘𝚗 𝚝𝚑𝚎 𝚎𝚍𝚐𝚎 [<img src="https://avatars.githubusercontent.com/u/314135?s=200&v=4" height="30em" align="center" alt="Cloudflare" title="Cloudflare"/>](https://workers.cloudflare.com/)
 
@@ -37,7 +37,7 @@ visitor@github:~$ cat ./about_me.txt
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 
 ```yaml
-- Shipping Backsie — multi-agent CBT platform (LangGraph · FastAPI · iOS)
+- Shipping Ally — AI campus companion (Base44 · Twilio · Google APIs)
 - Adjunct Instructor at NYU K12 STEM — Innovation, Entrepreneurship & Science
 - Graduate research at NYU Courant
 - Building real-time AI systems — EchoGuard, BCI neural decoders
@@ -57,10 +57,9 @@ visitor@github:~$ cat ./about_me.txt
 
 | | 𝙿𝚛𝚘𝚍𝚞𝚌𝚝 | 𝙷𝚒𝚐𝚑𝚕𝚒𝚐𝚑𝚝 |
 |:---:|:---|:---|
-| 🧘 | [**𝙱𝚊𝚌𝚔𝚜𝚒𝚎**](https://backsie.co/) | Multi-agent CBT · LangGraph · **live in prod** |
+| 🤝 | [**𝙰𝚕𝚕𝚢**](https://ally-campus-care.base44.app/) | AI campus companion · **live in prod** · 1st @ Base44 |
 | 📄 | [**𝙳𝚘𝚌𝚞𝙵𝚕𝚘𝚠**](https://youtu.be/VeF_WH0lBcg) | Serverless RAG · AWS Lambda · **2nd / 500+** |
 | 📞 | [**𝙴𝚌𝚑𝚘𝙶𝚞𝚊𝚛𝚍**](https://github.com/KrishJani/EchoGuard) | Real-time scam detection · Twilio · **4th @ Columbia** |
-| 🤝 | [**𝙰𝚕𝚕𝚢**](https://ally-campus-care.base44.app/) | AI campus companion · **1st @ Base44** |
 
 </div>
 
