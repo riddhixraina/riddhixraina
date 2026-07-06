@@ -138,10 +138,10 @@ visitor@github:~$ cat ./trophies.log
 <!--START_SECTION:activity-->
 1. 🚀 Pushed to [riddhixraina/riddhixraina](https://github.com/riddhixraina/riddhixraina) `main`
 2. 🚀 Pushed to [riddhixraina/riddhixraina](https://github.com/riddhixraina/riddhixraina) `main`
-3. 🌱 Created branch `main` in [riddhixraina/riddhixraina](https://github.com/riddhixraina/riddhixraina)
-4. 🚀 Pushed to [riddhixraina/riddhixraina.github.io](https://github.com/riddhixraina/riddhixraina.github.io) `main`
-5. 🚀 Pushed to [pulseNYC-Skywalkers/backend](https://github.com/pulseNYC-Skywalkers/backend) `main`
-6. 🚀 Pushed to [riddhixraina/neetcode-submissions-riddhi](https://github.com/riddhixraina/neetcode-submissions-riddhi) `main`
+3. 🚀 Pushed to [riddhixraina/riddhixraina](https://github.com/riddhixraina/riddhixraina) `main`
+4. 🌱 Created branch `main` in [riddhixraina/riddhixraina](https://github.com/riddhixraina/riddhixraina)
+5. 🚀 Pushed to [riddhixraina/riddhixraina.github.io](https://github.com/riddhixraina/riddhixraina.github.io) `main`
+6. 🚀 Pushed to [pulseNYC-Skywalkers/backend](https://github.com/pulseNYC-Skywalkers/backend) `main`
 7. 🚀 Pushed to [riddhixraina/neetcode-submissions-riddhi](https://github.com/riddhixraina/neetcode-submissions-riddhi) `main`
 <!--END_SECTION:activity-->
 
