@@ -23,7 +23,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=riddhixraina&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true
+          options: username=riddhixraina&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 

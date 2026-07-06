@@ -90,7 +90,7 @@ visitor@github:~$ cat ./about_me.txt
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=riddhixraina&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.shion.dev/api?username=riddhixraina&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=riddhixraina&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com?user=riddhixraina&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
