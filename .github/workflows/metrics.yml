@@ -21,7 +21,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: riddhixraina
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories, metadata
           base_hireable: yes
           plugin_languages: "no"
           filename: github-metrics.svg
