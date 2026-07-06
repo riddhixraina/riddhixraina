@@ -94,7 +94,7 @@ visitor@github:~$ cat ./about_me.txt
 
 <img src="https://streak-stats.demolab.com?user=riddhixraina&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://raw.githubusercontent.com/riddhixraina/riddhixraina/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=riddhixraina&theme=github-compact&hide_border=true&area=true&color=00cf00" alt="Contribution graph" />
 
 </div>
 
@@ -171,6 +171,6 @@ visitor@github:~$ echo "Open to SWE & AI/ML Engineering internships."
 - 𝙼𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎𝚍 𝚝𝚎𝚡𝚝 𝚏𝚛𝚘𝚖 [𝚢𝚊𝚢𝚝𝚎𝚡𝚝.𝚌𝚘𝚖/𝚖𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎](https://yaytext.com/monospace/)
 - 𝚂𝚔𝚒𝚕𝚕 𝚒𝚌𝚘𝚗𝚜 𝚏𝚛𝚘𝚖 [𝚜𝚔𝚒𝚕𝚕𝚒𝚌𝚘𝚗𝚜.𝚍𝚎𝚟](https://skillicons.dev)
 - 𝙶𝚒𝚝𝙷𝚞𝚋 𝚜𝚝𝚊𝚝𝚜 & 𝚜𝚝𝚛𝚎𝚊𝚔 𝚏𝚛𝚘𝚖 [𝚐𝚒𝚝𝚑𝚞𝚋-𝚛𝚎𝚊𝚍𝚖𝚎-𝚜𝚝𝚊𝚝𝚜](https://github.com/anuraghazra/github-readme-stats) 𝚊𝚗𝚍 [𝚜𝚝𝚛𝚎𝚊𝚔-𝚜𝚝𝚊𝚝𝚜](https://github.com/DenverCoder1/github-readme-streak-stats)
-- 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝚜𝚗𝚊𝚔𝚎 𝚏𝚛𝚘𝚖 [𝙿𝚕𝚊𝚝𝚊𝚗𝚞𝚜𝚗𝚗𝚊𝚔𝚎/𝚐𝚎𝚗𝚎𝚛𝚊𝚝𝚎-𝚜𝚗𝚊𝚔𝚎-𝚐𝚊𝚖𝚎](https://github.com/Platane/snake)
+- 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝚐𝚛𝚊𝚙𝚑 𝚏𝚛𝚘𝚖 [𝙰𝚜𝚑𝚞𝚝𝚘𝚜𝚑𝙿𝚊𝚛𝚒𝚔𝚑𝟸𝟾𝟼/𝙶𝚒𝚝𝙷𝚞𝚋-𝚁𝚎𝚊𝚍𝚖𝚎-𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢-𝙶𝚛𝚊𝚙𝚑](https://github.com/AshutoshParihar/github-readme-activity-graph)
 - 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 𝚏𝚛𝚘𝚖 [𝚕𝚘𝚠𝚕𝚒𝚐𝚑𝚝𝚎𝚛/𝚖𝚎𝚝𝚛𝚒𝚌𝚜](https://github.com/lowlighter/metrics)
 - 𝙶𝚒𝚝𝙷𝚞𝚋 𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢 𝚊𝚌𝚝𝚒𝚘𝚗 𝚏𝚛𝚘𝚖 [𝚐𝚒𝚝𝚑𝚞𝚋-𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢-𝚛𝚎𝚊𝚍𝚖𝚎](https://github.com/jamesgeorge007/github-activity-readme)
