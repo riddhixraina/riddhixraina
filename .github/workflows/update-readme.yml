@@ -7,8 +7,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - README.md
 
 permissions:
   contents: write
@@ -18,9 +16,131 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@master
+
+      - name: Update activity section
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
+          GH_USERNAME: riddhixraina
           MAX_LINES: 7
-          COMMIT_MSG: "chore: update latest GitHub activity"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 <<'PY'
+          import json
+          import os
+          import re
+          import urllib.request
+
+          username = os.environ["GH_USERNAME"]
+          max_lines = int(os.environ["MAX_LINES"])
+          token = os.environ.get("GITHUB_TOKEN", "")
+
+          req = urllib.request.Request(
+              f"https://api.github.com/users/{username}/events/public?per_page=100",
+              headers={
+                  "Accept": "application/vnd.github+json",
+                  "Authorization": f"Bearer {token}",
+                  "User-Agent": "github-activity-readme",
+              },
+          )
+
+          with urllib.request.urlopen(req) as resp:
+              events = json.load(resp)
+
+          def format_event(event):
+              event_type = event["type"]
+              repo = event["repo"]["name"]
+              repo_url = f"https://github.com/{repo}"
+
+              if event_type == "PushEvent":
+                  ref = event["payload"].get("ref", "")
+                  branch = ref.replace("refs/heads/", "") or "main"
+                  commits = event["payload"].get("commits") or []
+                  if commits:
+                      msg = commits[-1].get("message", "").splitlines()[0][:60]
+                      return f"🚀 Pushed to [{repo}]({repo_url}) `{branch}` — {msg}"
+                  return f"🚀 Pushed to [{repo}]({repo_url}) `{branch}`"
+
+              if event_type == "PullRequestEvent":
+                  action = event["payload"]["action"]
+                  pr = event["payload"]["pull_request"]
+                  number = pr["number"]
+                  pr_url = pr["html_url"]
+                  verbs = {
+                      "opened": "Opened",
+                      "closed": "Closed",
+                      "merged": "Merged",
+                      "reopened": "Reopened",
+                  }
+                  verb = verbs.get(action, action.title())
+                  return f"🔀 {verb} PR [#{number}]({pr_url}) in [{repo}]({repo_url})"
+
+              if event_type == "IssuesEvent":
+                  action = event["payload"]["action"]
+                  issue = event["payload"]["issue"]
+                  number = issue["number"]
+                  issue_url = issue["html_url"]
+                  verbs = {
+                      "opened": "Opened",
+                      "closed": "Closed",
+                      "reopened": "Reopened",
+                  }
+                  verb = verbs.get(action, action.title())
+                  return f"🐛 {verb} issue [#{number}]({issue_url}) in [{repo}]({repo_url})"
+
+              if event_type == "IssueCommentEvent":
+                  issue = event["payload"]["issue"]
+                  number = issue["number"]
+                  issue_url = issue["html_url"]
+                  return f"🗣 Commented on [#{number}]({issue_url}) in [{repo}]({repo_url})"
+
+              if event_type == "ReleaseEvent":
+                  action = event["payload"]["action"]
+                  release = event["payload"]["release"]
+                  tag = release.get("tag_name", "release")
+                  release_url = release["html_url"]
+                  return f"🏷 {action.title()} release [{tag}]({release_url}) in [{repo}]({repo_url})"
+
+              if event_type == "CreateEvent":
+                  ref_type = event["payload"].get("ref_type", "ref")
+                  ref = event["payload"].get("ref", "")
+                  return f"🌱 Created {ref_type} `{ref}` in [{repo}]({repo_url})"
+
+              return None
+
+          lines = []
+          for event in events:
+              line = format_event(event)
+              if line:
+                  lines.append(line)
+              if len(lines) >= max_lines:
+                  break
+
+          activity = "\n".join(f"{i}. {line}" for i, line in enumerate(lines, 1))
+          if not activity:
+              activity = "_No recent public activity yet — check back soon!_"
+
+          with open("README.md", "r", encoding="utf-8") as f:
+              readme = f.read()
+
+          updated = re.sub(
+              r"<!--START_SECTION:activity-->.*?<!--END_SECTION:activity-->",
+              f"<!--START_SECTION:activity-->\n{activity}\n<!--END_SECTION:activity-->",
+              readme,
+              count=1,
+              flags=re.DOTALL,
+          )
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(updated)
+          PY
+
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet README.md; then
+            echo "No activity changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update latest GitHub activity"
+          git push

@@ -1,9 +1,9 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00CF00&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+Riddhi+Raina+Prasad+%F0%9F%91%8B;Full+Stack+%26+AI+Engineer;MS+CS+%40+NYU+%C2%B7+4.0+GPA;Ex-SDE2+%40+Optum+%7C+5%C3%97+Hackathon+Winner+%F0%9F%8F%86;Shipping+AI+on+the+edge+%E2%9A%A1)](https://riddhixraina.github.io/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00CF00&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+Riddhi+Raina+Prasad+%F0%9F%91%8B;Full+Stack+%26+AI+Engineer;MS+CS+%40+NYU;Ex-SDE2+%40+Optum+%7C+6%C3%97+Hackathon+Winner+%F0%9F%8F%86;Shipping+AI+on+the+edge+%E2%9A%A1)](https://riddhixraina.github.io/)
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=riddhixraina.riddhixraina&color=00cf00)
-[![last updated](https://img.shields.io/github/last-commit/riddhixraina/riddhixraina?label=last%20updated&display_timestamp=updated&style=flat-square&color=00cf00)](https://github.com/riddhixraina/riddhixraina/commits/main)
+[![last updated](https://img.shields.io/github/last-commit/riddhixraina/riddhixraina?label=last%20updated&style=flat-square&color=00cf00)](https://github.com/riddhixraina/riddhixraina/commits/main)
 
 </div>
 
@@ -12,10 +12,10 @@ visitor@github:~$ cat ./about_me.txt
 
   Name      : Riddhi Raina Prasad
   Handle    : riddhixraina
-  Uni       : New York University — MS Computer Science '27 · GPA 4.0
+  Uni       : New York University — MS Computer Science '27
   Prev      : SDE2 @ Optum (UnitedHealth Group) · 3+ years
   Focus     : AI/ML · Multi-Agent Systems · Full-Stack · Distributed Systems
-  Wins      : ████████████ 5× Hackathon Winner 🏆
+  Wins      : ██████████████ 6× Hackathon Winner 🏆
   Shipping  : Backsie (live) · DocuFlow · EchoGuard · PersonaSphere
   Portfolio : https://riddhixraina.github.io/
   Collab    : OPEN — reach out anytime ✅
@@ -25,8 +25,9 @@ visitor@github:~$ cat ./about_me.txt
 
 - 🖥 𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 & 𝙰𝙸 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚠𝚑𝚘 𝚋𝚞𝚒𝚕𝚍𝚜 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝚜𝚌𝚊𝚕𝚎 — 𝚊𝚗𝚍 𝚕𝚊𝚝𝚎𝚕𝚢, 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝚝𝚑𝚒𝚗𝚔
 - 💼 𝙴𝚡-𝚂𝚎𝚗𝚒𝚘𝚛 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 (𝚂𝙳𝙴𝟸) 𝚊𝚝 𝙾𝚙𝚝𝚞𝚖 — 𝟹+ 𝚢𝚎𝚊𝚛𝚜 𝚜𝚑𝚒𝚙𝚙𝚒𝚗𝚐 𝙺𝚞𝚋𝚎𝚛𝚗𝚎𝚝𝚎𝚜 𝚖𝚒𝚌𝚛𝚘𝚜𝚎𝚛𝚟𝚒𝚌𝚎𝚜, 𝙷𝙸𝙿𝙰𝙰-𝚐𝚛𝚊𝚍𝚎 𝚙𝚒𝚙𝚎𝚕𝚒𝚗𝚎𝚜 & 𝚊𝚗 𝙰𝚐𝚎𝚗𝚝𝚒𝚌 𝙰𝙸 𝙿𝚁 𝚁𝚎𝚟𝚒𝚎𝚠𝚎𝚛
-- 🎓 𝙼𝚂 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚝 𝙽𝚈𝚄 (𝟺.𝟶 𝙶𝙿𝙰), 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸𝟶𝟸𝟽 · 𝙱𝚃𝚎𝚌𝚑 𝚏𝚛𝚘𝚖 𝚅𝙸𝚃 · 𝚃𝙰 𝚊𝚝 𝙲𝚘𝚞𝚛𝚊𝚗𝚝 & 𝙻𝚎𝚊𝚗 𝙻𝚊𝚞𝚗𝚌𝚑𝙿𝚊𝚍
-- 🏆 𝟻𝚡 𝚑𝚊𝚌𝚔𝚊𝚝𝚑𝚘𝚗 𝚠𝚒𝚗𝚗𝚎𝚛 — 𝙰𝚆𝚂 𝙵𝚒𝚗𝙰𝙸 (𝟸𝚗𝚍/𝟻𝟶𝟶+), 𝙲𝚛𝚘𝚜𝚜-𝙲𝚊𝚖𝚙𝚞𝚜 𝙱𝚊𝚜𝚎𝟺𝟺 (𝟷𝚜𝚝), 𝙽𝚈𝚄 𝚂𝚝𝚊𝚛𝚝𝚞𝚙 𝚆𝚎𝚎𝚔𝚎𝚗𝚍, 𝙲𝚘𝚕𝚞𝚖𝚋𝚒𝚊 𝙰𝙸 𝚏𝚘𝚛 𝙶𝚘𝚘𝚍, 𝙽𝙰𝚂𝙰 𝚂𝚙𝚊𝚌𝚎 𝙰𝚙𝚙𝚜
+- 🎓 𝙼𝚂 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚝 𝙽𝚈𝚄, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸𝟶𝟸𝟽 · 𝙱𝚃𝚎𝚌𝚑 𝚏𝚛𝚘𝚖 𝚅𝙸𝚃
+- 🧑‍🏫 𝙰𝚍𝚓𝚞𝚗𝚌𝚝 𝙸𝚗𝚜𝚝𝚛𝚞𝚌𝚝𝚘𝚛 𝚊𝚝 𝙽𝚈𝚄 𝙺𝟷𝟸 𝚂𝚃𝙴𝙼 — 𝚝𝚎𝚊𝚌𝚑𝚒𝚗𝚐 𝙸𝚗𝚗𝚘𝚟𝚊𝚝𝚒𝚘𝚗, 𝙴𝚗𝚝𝚛𝚎𝚙𝚛𝚎𝚗𝚎𝚞𝚛𝚜𝚑𝚒𝚙 & 𝚂𝚌𝚒𝚎𝚗𝚌𝚎
+- 🏆 𝟼𝚡 𝚑𝚊𝚌𝚔𝚊𝚝𝚑𝚘𝚗 𝚠𝚒𝚗𝚗𝚎𝚛 — 𝙿𝚞𝚕𝚜𝚎 𝙵𝚘𝚞𝚗𝚍𝚛𝚢 𝙰𝙸 × 𝙰𝙱𝙸 (𝟷𝚜𝚝), 𝙰𝚆𝚂 𝙵𝚒𝚗𝙰𝙸 (𝟸𝚗𝚍/𝟻𝟶𝟶+), 𝙲𝚛𝚘𝚜𝚜-𝙲𝚊𝚖𝚙𝚞𝚜 𝙱𝚊𝚜𝚎𝟺𝟺 (𝟷𝚜𝚝), 𝙽𝚈𝚄 𝚂𝚝𝚊𝚛𝚝𝚞𝚙 𝚆𝚎𝚎𝚔𝚎𝚗𝚍, 𝙲𝚘𝚕𝚞𝚖𝚋𝚒𝚊 𝙰𝙸 𝚏𝚘𝚛 𝙶𝚘𝚘𝚍, 𝙽𝙰𝚂𝙰 𝚂𝚙𝚊𝚌𝚎 𝙰𝚙𝚙𝚜
 - 🚀 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚜𝚑𝚒𝚙𝚙𝚒𝚗𝚐 [**𝙱𝚊𝚌𝚔𝚜𝚒𝚎**](https://backsie.co/) — 𝚖𝚞𝚕𝚝𝚒-𝚊𝚐𝚎𝚗𝚝 𝙲𝙱𝚃 𝚙𝚕𝚊𝚝𝚏𝚘𝚛𝚖 𝚕𝚒𝚟𝚎 𝚘𝚗 𝚠𝚎𝚋 & 𝚒𝙾𝚂 𝚠𝚒𝚝𝚑 𝟸𝟷+ 𝚊𝚌𝚝𝚒𝚟𝚎 𝚞𝚜𝚎𝚛𝚜
 - 🌐 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚘𝚗 [𝙶𝚒𝚝𝙷𝚞𝚋](https://github.com/riddhixraina) & [𝚛𝚒𝚍𝚍𝚑𝚒𝚡𝚛𝚊𝚒𝚗𝚊.𝚐𝚒𝚝𝚑𝚞𝚋.𝚒𝚘](https://riddhixraina.github.io/)
 - ⚡ 𝚋𝚝𝚠 𝙸 𝚍𝚎𝚙𝚕𝚘𝚢 𝚘𝚗 𝚝𝚑𝚎 𝚎𝚍𝚐𝚎 [<img src="https://avatars.githubusercontent.com/u/314135?s=200&v=4" height="30em" align="center" alt="Cloudflare" title="Cloudflare"/>](https://workers.cloudflare.com/)
@@ -37,10 +38,10 @@ visitor@github:~$ cat ./about_me.txt
 
 ```yaml
 - Shipping Backsie — multi-agent CBT platform (LangGraph · FastAPI · iOS)
-- Graduate research & TA at NYU Courant
+- Adjunct Instructor at NYU K12 STEM — Innovation, Entrepreneurship & Science
+- Graduate research at NYU Courant
 - Building real-time AI systems — EchoGuard, BCI neural decoders
-- Teaching Innovation & Entrepreneurship at NYU K12 STEM
-- Hunting my 6th hackathon win 🏆
+- Hunting my 7th hackathon win 🏆
 ```
 
 - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
@@ -100,7 +101,7 @@ visitor@github:~$ cat ./about_me.txt
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
-![Metrics](https://metrics.lecoq.io/riddhixraina?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&languages=1&languages.limit=8&languages.colors=github&languages.sections=most-used&languages.indepth=true&config.timezone=America%2FNew_York)
+![Metrics](https://metrics.lecoq.io/riddhixraina?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.hireable=true&languages=1&languages.limit=8&languages.colors=github&languages.sections=most-used&config.timezone=America%2FNew_York)
 
 ---
 
@@ -122,12 +123,13 @@ visitor@github:~$ cat ./about_me.txt
 ```console
 visitor@github:~$ cat ./trophies.log
 
+  🥇  Pulse Foundry AI × ABI Frameworks ....... 1st place
   🥇  Cross-Campus Base44 (Ally) .............. 1st place — highest real-world impact
   🥈  AWS Financial AI Hack (DocuFlow) ........ 2nd of 500+ teams
   🥈  NYU Startup Weekend (SpecterRossAI) ..... 2nd · Best Use of Databricks
   🏅  Columbia AI for Good (EchoGuard) ........ 4th place
   🏆  NASA Space Apps ......................... Best Use of Cloudflare
-  ⚡  Circuit total ........................... 5 wins — hunting #6
+  ⚡  Circuit total ........................... 6 wins — hunting #7
 ```
 
 ---
@@ -135,6 +137,13 @@ visitor@github:~$ cat ./trophies.log
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 
 <!--START_SECTION:activity-->
+1. 🌱 Created branch `main` in [riddhixraina/riddhixraina](https://github.com/riddhixraina/riddhixraina)
+2. 🚀 Pushed to [riddhixraina/riddhixraina.github.io](https://github.com/riddhixraina/riddhixraina.github.io) `main`
+3. 🚀 Pushed to [pulseNYC-Skywalkers/backend](https://github.com/pulseNYC-Skywalkers/backend) `main`
+4. 🚀 Pushed to [riddhixraina/neetcode-submissions-riddhi](https://github.com/riddhixraina/neetcode-submissions-riddhi) `main`
+5. 🚀 Pushed to [riddhixraina/neetcode-submissions-riddhi](https://github.com/riddhixraina/neetcode-submissions-riddhi) `main`
+6. 🚀 Pushed to [riddhixraina/neetcode-submissions-riddhi](https://github.com/riddhixraina/neetcode-submissions-riddhi) `main`
+7. 🚀 Pushed to [riddhixraina/neetcode-submissions-riddhi](https://github.com/riddhixraina/neetcode-submissions-riddhi) `main`
 <!--END_SECTION:activity-->
 
 ---
