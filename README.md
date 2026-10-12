@@ -137,12 +137,13 @@ visitor@github:~$ cat ./trophies.log
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 
 <!--START_SECTION:activity-->
-1. 🏷 Published release [v1.0.0](https://github.com/riddhixraina/cc-fall2026-assignment1/releases/tag/v1.0.0) in [riddhixraina/cc-fall2026-assignment1](https://github.com/riddhixraina/cc-fall2026-assignment1)
-2. 🚀 Pushed to [AI-Data-Center-ML-Engine-SkyWalkers/siting-platform](https://github.com/AI-Data-Center-ML-Engine-SkyWalkers/siting-platform) `main`
-3. 🚀 Pushed to [AI-Data-Center-ML-Engine-SkyWalkers/siting-platform](https://github.com/AI-Data-Center-ML-Engine-SkyWalkers/siting-platform) `main`
-4. 🌱 Created branch `main` in [AI-Data-Center-ML-Engine-SkyWalkers/.github](https://github.com/AI-Data-Center-ML-Engine-SkyWalkers/.github)
+1. 🚀 Pushed to [riddhixraina/cc-fall2026-assignment1](https://github.com/riddhixraina/cc-fall2026-assignment1) `main`
+2. 🌱 Created branch `main` in [riddhixraina/cc-fall2026-assignment1](https://github.com/riddhixraina/cc-fall2026-assignment1)
+3. 🏷 Published release [v1.0.0](https://github.com/riddhixraina/cc-fall2026-assignment1/releases/tag/v1.0.0) in [riddhixraina/cc-fall2026-assignment1](https://github.com/riddhixraina/cc-fall2026-assignment1)
+4. 🚀 Pushed to [AI-Data-Center-ML-Engine-SkyWalkers/siting-platform](https://github.com/AI-Data-Center-ML-Engine-SkyWalkers/siting-platform) `main`
 5. 🚀 Pushed to [AI-Data-Center-ML-Engine-SkyWalkers/siting-platform](https://github.com/AI-Data-Center-ML-Engine-SkyWalkers/siting-platform) `main`
-6. 🌱 Created branch `main` in [AI-Data-Center-ML-Engine-SkyWalkers/siting-platform](https://github.com/AI-Data-Center-ML-Engine-SkyWalkers/siting-platform)
+6. 🌱 Created branch `main` in [AI-Data-Center-ML-Engine-SkyWalkers/.github](https://github.com/AI-Data-Center-ML-Engine-SkyWalkers/.github)
+7. 🚀 Pushed to [AI-Data-Center-ML-Engine-SkyWalkers/siting-platform](https://github.com/AI-Data-Center-ML-Engine-SkyWalkers/siting-platform) `main`
 <!--END_SECTION:activity-->
 
 ---
