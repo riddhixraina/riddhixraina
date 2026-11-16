@@ -138,12 +138,12 @@ visitor@github:~$ cat ./trophies.log
 
 <!--START_SECTION:activity-->
 1. 🚀 Pushed to [skywalkers77/skywalkers77](https://github.com/skywalkers77/skywalkers77) `riddhi/stage1-harmonizer`
-2. 🌱 Created branch `riddhi/stage1-harmonizer` in [skywalkers77/skywalkers77](https://github.com/skywalkers77/skywalkers77)
-3. 🚀 Pushed to [NFL-Hack/backend](https://github.com/NFL-Hack/backend) `main`
-4. 🚀 Pushed to [Halloween-Hackathon-ChainGains/frontend](https://github.com/Halloween-Hackathon-ChainGains/frontend) `main`
-5. 🚀 Pushed to [Halloween-Hackathon-ChainGains/frontend](https://github.com/Halloween-Hackathon-ChainGains/frontend) `main`
-6. 🌱 Created branch `main` in [Halloween-Hackathon-ChainGains/frontend](https://github.com/Halloween-Hackathon-ChainGains/frontend)
-7. 🚀 Pushed to [riddhixraina/triton-fused-kernels](https://github.com/riddhixraina/triton-fused-kernels) `main`
+2. 🌱 Created branch `main` in [riddhixraina/agentic-sql-rag-sec-filings](https://github.com/riddhixraina/agentic-sql-rag-sec-filings)
+3. 🚀 Pushed to [skywalkers77/skywalkers77](https://github.com/skywalkers77/skywalkers77) `riddhi/stage1-harmonizer`
+4. 🌱 Created branch `riddhi/stage1-harmonizer` in [skywalkers77/skywalkers77](https://github.com/skywalkers77/skywalkers77)
+5. 🚀 Pushed to [NFL-Hack/backend](https://github.com/NFL-Hack/backend) `main`
+6. 🚀 Pushed to [Halloween-Hackathon-ChainGains/frontend](https://github.com/Halloween-Hackathon-ChainGains/frontend) `main`
+7. 🚀 Pushed to [Halloween-Hackathon-ChainGains/frontend](https://github.com/Halloween-Hackathon-ChainGains/frontend) `main`
 <!--END_SECTION:activity-->
 
 ---
